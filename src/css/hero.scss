@@ -1,0 +1,9 @@
+@import "variables";
+
+.hero {
+	height: calc(100vh - 3em);
+	width: 100vw;
+	background-image: url("/assets/images/hero-bg.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
